@@ -15,3 +15,7 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 2. Snowpeas
 
 3. Mushrooms
+
+4. Water
+
+5. Hard boiled egg
